@@ -5,6 +5,12 @@ I'm a Automation and Control Engineering MSc student at Politecnico di Milano.
 I'm developing my master thesis at the Institute of Automotive Technology at TU MUnich
 </p>
 
+
+<p align="center", marginTop="100px">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/apiguidosassarolianuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="Guido's github stats" /> </a></p>
+
+
+
 <h2 align="center"> Current project</h2>
 
 <ul>
