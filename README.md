@@ -6,8 +6,12 @@ I'm developing my master thesis at the Institute of Automotive Technology at TU 
 </p>
 
 
-![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidosassaroli&hide=contribs,prs)
+&nbsp;
+    
+<p align="center", marginTop="100px">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guidosassaroli&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Guido's github stats" /> </a></p>
 
+&nbsp;
 
 
 <h2 align="center"> Current project</h2>
