@@ -6,7 +6,7 @@ I'm developing my master thesis at the Institute of Automotive Technology at TU 
 </p>
 
 <h2 align="center"> Current project</h2>
-* `Master Thesis` : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following"
+* Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following"
 
 
 
