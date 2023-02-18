@@ -9,7 +9,7 @@ I'm developing my master thesis at the Institute of Automotive Technology at TU 
 &nbsp;
     
 <p align="center", marginTop="100px">
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guidosassaroli&include_all_commits=true&bg_color=00000000&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Guido's github stats" /> </a></p>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guidosassaroli&include_all_commits=true&bg_color=eeeeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=7f0000&title_color=7f0000&text_color=b71c1c" alt="Guido's github stats" /> </a></p>
 
 &nbsp;
 
