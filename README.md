@@ -5,7 +5,17 @@ I'm a Automation and Control Engineering MSc student at Politecnico di Milano.
 I'm developing my master thesis at the Institute of Automotive Technology at TU MUnich
 </p>
 
+<h2 align="center"> Current project</h2>
+* [`Master Thesis`]() : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following"
 
+
+
+<h2 align="center"> Projects</h2>
+
+
+* [`virgilio`](https://github.com/guidosassaroli/virgilio) : Design and development of a sensored stick for a blind person. 
+* [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller. 
+* [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : Reinfrocment learning agent for cart pole control.
 
 
 
