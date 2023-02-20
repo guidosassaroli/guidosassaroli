@@ -1,8 +1,8 @@
 <p align="center">
-I'm a Automation and Control Engineering MSc student at Politecnico di Milano.
+Automation and Control Engineering MSc student at Politecnico di Milano.
 </p>
 <p align="center">
-I'm developing my master thesis at the Institute of Automotive Technology at TU MUnich
+Developing my master thesis at the Institute of Automotive Technology (TU MUnich).
 </p>
 
 
