@@ -17,7 +17,7 @@ Developing my master thesis at the Institute of Automotive Technology (TU MUnich
 <h2 align="center"> Current project</h2>
 
 <ul>
-  <li>Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following"</li>
+  <li></li>
 </ul>
 
 
@@ -28,6 +28,7 @@ Developing my master thesis at the Institute of Automotive Technology (TU MUnich
 * [`virgilio`](https://github.com/guidosassaroli/virgilio) : Design and development of a sensored stick for a blind person. 
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller. 
 * [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : Reinfrocment learning agent for cart pole control.
+* Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following".
 
 
 
