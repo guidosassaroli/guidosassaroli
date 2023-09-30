@@ -14,11 +14,11 @@ Developing my master thesis at the Institute of Automotive Technology (TU MUnich
 &nbsp;
 
 
-<h2 align="center"> Current project</h2>
+<!-- <h2 align="center"> Current project</h2>
 
 <ul>
   <li></li>
-</ul>
+</ul> -->
 
 
 
