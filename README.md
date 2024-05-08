@@ -1,9 +1,13 @@
 <p align="center">
-Automation and Control Engineering MSc student at Politecnico di Milano.
+Researcher, RSE Spa.
 </p>
 <p align="center">
-Developing my master thesis at the Institute of Automotive Technology (TU MUnich).
+Master Thesis, TU Munich.
 </p>
+<p align="center">
+Automation and Control Engineer, Politecnico di Milano.
+</p>
+
 
 
 &nbsp;
