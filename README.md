@@ -1,5 +1,5 @@
 <p align="center">
-Researcher, RSE Spa.
+Tenured Researcher, RSE Spa.
 </p>
 <p align="center">
 Master Thesis, TU Munich.
