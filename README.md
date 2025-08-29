@@ -33,6 +33,7 @@ Automation and Control Engineer, Politecnico di Milano.
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller. 
 * [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : Reinfrocment learning agent for cart pole control.
 * Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following".
+* [`Multi Energy System Library`](https://github.com/RSE-TGM/multienergysystem) : Co-developer of a Modelica Library for modelling, simulation & control of District Heating Systems and Natural Gas Systems.
 
 
 
