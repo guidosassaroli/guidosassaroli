@@ -28,13 +28,17 @@ Automation and Control Engineer, Politecnico di Milano.
 
 <h2 align="center"> Projects</h2>
 
+<h4 align="center"> Machine Learning</h4>
 
-* [`virgilio`](https://github.com/guidosassaroli/virgilio) : Design and development of a sensored stick for a blind person. 
+* [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : RL agent for cart pole control.
+* [`Stocks and Finance`](https://github.com/guidosassaroli/finance_ML) : Playing with stocks and ML.
+* [`Time series prediction`](https://github.com/guidosassaroli/rnn_trading) : RNN to analyze markets trends.
+
+<h4 align="center"> Control and Robotics</h4>
+
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller. 
-* [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : Reinfrocment learning agent for cart pole control.
-* Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following".
 * [`Multi Energy System Library`](https://github.com/RSE-TGM/multienergysystem) : Co-developer of a Modelica Library for modelling, simulation & control of District Heating Systems and Natural Gas Systems.
-
+* Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following".
 
 
 
