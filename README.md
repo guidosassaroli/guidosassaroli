@@ -28,13 +28,13 @@ Automation and Control Engineer, Politecnico di Milano.
 
 <h2 align="center"> Projects</h2>
 
-<h4 align="center"> Machine Learning</h4>
+<h4 align="left"> Machine Learning</h4>
 
 * [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : RL agent for cart pole control.
 * [`Stocks and Finance`](https://github.com/guidosassaroli/finance_ML) : Playing with stocks and ML.
 * [`Time series prediction`](https://github.com/guidosassaroli/rnn_trading) : RNN to analyze markets trends.
 
-<h4 align="center"> Control and Robotics</h4>
+<h4 align="left"> Control and Robotics</h4>
 
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller. 
 * [`Multi Energy System Library`](https://github.com/RSE-TGM/multienergysystem) : Co-developer of a Modelica Library for modelling, simulation & control of District Heating Systems and Natural Gas Systems.
