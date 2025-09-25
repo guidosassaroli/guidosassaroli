@@ -36,6 +36,7 @@ Automation and Control Engineer, Politecnico di Milano.
 
 <h4 align="left"> Machine Learning</h4>
 
+* [`Computer Vision`](https://github.com/guidosassaroli/openvocab) : Open vocabulary detection with SAM adn CLIP.
 * [`RL-cartpole`](https://github.com/guidosassaroli/RL-cartpole) : RL agent for cart pole control.
 * [`Stocks and Finance`](https://github.com/guidosassaroli/finance_ML) : Playing with stocks and ML.
 * [`Time series prediction`](https://github.com/guidosassaroli/rnn_trading) : RNN to analyze markets trends.
