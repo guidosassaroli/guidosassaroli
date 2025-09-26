@@ -34,7 +34,7 @@ Automation and Control Engineer, Politecnico di Milano.
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller.
 * [`AgileX scout`](https://github.com/FilippoTallon/second_project) : Odometry computation for AgileX Scout 2.0 robot.
 * [`Multi Energy System Library`](https://github.com/RSE-TGM/multienergysystem) : Co-developer of a Modelica Library for modelling, simulation & control of District Heating Systems and Natural Gas Systems.
-* Master Thesis : "Robust Nonlinear MPC for combined lateral and longitudinal control for trajectory following".
+* Master Thesis : "Autonomous truck: combined lateral-and longitudinal control with robust nonlinear MPC for trajectory following".
 
 <h4 align="left"> Machine Learning</h4>
 
