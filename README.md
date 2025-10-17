@@ -30,7 +30,8 @@ Automation and Control Engineer, Politecnico di Milano.
 
 <h4 align="left"> Control and Robotics</h4>
 
-* [`controlbasics`](https://github.com/guidosassaroli/controlbasics) : Theory and hands-on examples of the most used control techniques. 
+* [`controlbasics`](https://github.com/guidosassaroli/controlbasics) : Theory and hands-on examples of the most used control techniques.
+* [`Mobile Robot (N)MPC`](https://github.com/guidosassaroli/mobile_robot_MPC): Linear and Nonlinear MPC for trajectory following of a mobile robot. 
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller.
 * [`AgileX scout`](https://github.com/FilippoTallon/second_project) : Odometry computation for AgileX Scout 2.0 robot.
 * [`Multi Energy System Library`](https://github.com/RSE-TGM/multienergysystem) : Co-developer of a Modelica Library for modelling, simulation & control of District Heating Systems and Natural Gas Systems.
