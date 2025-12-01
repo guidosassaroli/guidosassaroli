@@ -30,7 +30,7 @@ Automation and Control Engineer, Politecnico di Milano.
 
 <h4 align="left"> Control and Robotics</h4>
 
-* [`languide-guided simulator`]( https://github.com/guidosassaroli/language-guided_motionplanning) : A tiny simulator that turns sentences into goal-directed robot actions.
+* [`language-guided simulator`]( https://github.com/guidosassaroli/language-guided_motionplanning) : A tiny simulator that turns sentences into goal-directed robot actions.
 * [`controlbasics`](https://github.com/guidosassaroli/controlbasics) : Theory and hands-on examples of the most used control techniques.
 * [`Mobile Robot (N)MPC`](https://github.com/guidosassaroli/mobile_robot_MPC): Linear and Nonlinear MPC for trajectory following of a mobile robot. 
 * [`Mobile Manipulator`](https://github.com/guidosassaroli/mobile_manipulator) : Computer Torque Control and Pure Pursuit controller.
