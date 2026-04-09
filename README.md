@@ -32,7 +32,7 @@ Automation and Control Engineer, Politecnico di Milano.
 
 * [`Deal Flow Intelligence`](https://github.com/guidosassaroli/vc-analysis) : The utlimate Due Dilingece tool.
 * [`MCP for personal finance`](https://github.com/guidosassaroli/MiTo.git) : MCP-based personal finance.
-* [`Meet Halfway`](https://github.com/giuliovv/middlejs) : find the perfect place to trvale with you friends living in different cities.
+* [`Meet Halfway`](https://github.com/giuliovv/middlejs) : find the perfect place to travel with you friends leaving from different cities.
 
 
 
